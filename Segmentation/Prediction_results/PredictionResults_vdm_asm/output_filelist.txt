@@ -1,0 +1,1 @@
+Segmentation/Prediction_results/PredictionResults_vdm_asm/_pred.txt

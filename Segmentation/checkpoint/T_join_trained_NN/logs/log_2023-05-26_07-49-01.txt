@@ -1,0 +1,1309 @@
+Fail to load modelfile: Segmentation/checkpoint/T_join_trained_NN/
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0019_005.h5	0/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0002_009.h5	1/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0040_007.h5	2/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0038_008.h5	3/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0035_009.h5	4/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0019_003.h5	5/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0011_004.h5	6/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0019_002.h5	7/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0039_009.h5	8/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0024_009.h5	9/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0045_004.h5	10/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0045_007.h5	11/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0006_005.h5	12/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0028_010.h5	13/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0034_008.h5	14/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0025_002.h5	15/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0041_006.h5	16/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0006_006.h5	17/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0047_009.h5	18/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0020_009.h5	19/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0033_003.h5	20/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0038_004.h5	21/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0030_009.h5	22/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0037_010.h5	23/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0048_004.h5	24/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0015_005.h5	25/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0009_007.h5	26/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0034_007.h5	27/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0045_005.h5	28/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0011_005.h5	29/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0044_005.h5	30/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0043_005.h5	31/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0047_006.h5	32/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0007_005.h5	33/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0015_002.h5	34/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0007_006.h5	35/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0000_005.h5	36/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0022_006.h5	37/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0015_006.h5	38/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0034_006.h5	39/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0033_007.h5	40/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0023_003.h5	41/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0039_004.h5	42/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0009_003.h5	43/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0006_007.h5	44/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0005_003.h5	45/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0012_008.h5	46/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0048_010.h5	47/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0034_009.h5	48/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0047_002.h5	49/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0020_010.h5	50/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0005_004.h5	51/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0008_004.h5	52/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0040_005.h5	53/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0032_003.h5	54/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0031_007.h5	55/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0034_002.h5	56/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0043_009.h5	57/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0003_004.h5	58/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0022_008.h5	59/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0033_010.h5	60/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0001_007.h5	61/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0000_003.h5	62/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0002_003.h5	63/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0011_002.h5	64/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0018_003.h5	65/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0038_009.h5	66/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0021_009.h5	67/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0044_003.h5	68/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0044_006.h5	69/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0012_002.h5	70/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0008_003.h5	71/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0012_009.h5	72/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0015_003.h5	73/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0010_006.h5	74/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0040_004.h5	75/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0023_010.h5	76/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0037_004.h5	77/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0030_003.h5	78/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0021_008.h5	79/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0010_009.h5	80/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0027_006.h5	81/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0047_008.h5	82/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0043_004.h5	83/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0035_008.h5	84/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0016_002.h5	85/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0048_009.h5	86/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0012_005.h5	87/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0016_007.h5	88/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0022_005.h5	89/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0020_005.h5	90/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0038_006.h5	91/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0035_004.h5	92/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0006_008.h5	93/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0033_006.h5	94/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0026_006.h5	95/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0036_005.h5	96/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0025_007.h5	97/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0026_009.h5	98/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0033_008.h5	99/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0038_002.h5	100/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0005_009.h5	101/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0049_002.h5	102/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0024_007.h5	103/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0010_008.h5	104/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0035_003.h5	105/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0035_002.h5	106/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0043_006.h5	107/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0024_004.h5	108/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0010_005.h5	109/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0008_005.h5	110/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0018_002.h5	111/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0041_003.h5	112/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0022_004.h5	113/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0005_010.h5	114/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0035_006.h5	115/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0041_009.h5	116/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0003_007.h5	117/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0032_002.h5	118/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0019_010.h5	119/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0004_010.h5	120/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0039_006.h5	121/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0039_007.h5	122/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0046_009.h5	123/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0035_005.h5	124/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0027_002.h5	125/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0044_010.h5	126/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0010_004.h5	127/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0023_002.h5	128/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0012_004.h5	129/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0017_008.h5	130/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0013_010.h5	131/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0034_010.h5	132/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0037_005.h5	133/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0044_009.h5	134/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0036_003.h5	135/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0030_002.h5	136/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0002_006.h5	137/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0032_007.h5	138/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0007_010.h5	139/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0048_008.h5	140/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0024_003.h5	141/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0008_008.h5	142/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0027_007.h5	143/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0029_002.h5	144/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0047_004.h5	145/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0012_006.h5	146/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0025_003.h5	147/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0041_008.h5	148/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0046_002.h5	149/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0038_010.h5	150/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0018_009.h5	151/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0043_010.h5	152/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0037_008.h5	153/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0017_007.h5	154/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0036_010.h5	155/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0014_002.h5	156/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0007_009.h5	157/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0030_010.h5	158/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0031_005.h5	159/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0011_010.h5	160/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0002_010.h5	161/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0039_005.h5	162/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0048_007.h5	163/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0038_007.h5	164/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0002_008.h5	165/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0013_002.h5	166/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0036_009.h5	167/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0033_004.h5	168/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0014_007.h5	169/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0038_003.h5	170/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0007_003.h5	171/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0023_009.h5	172/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0033_009.h5	173/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0018_006.h5	174/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0003_002.h5	175/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0004_003.h5	176/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0010_010.h5	177/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0015_004.h5	178/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0029_003.h5	179/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0021_002.h5	180/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0003_006.h5	181/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0041_004.h5	182/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0016_004.h5	183/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0017_005.h5	184/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0011_003.h5	185/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0047_007.h5	186/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0020_002.h5	187/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0046_005.h5	188/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0017_003.h5	189/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0030_005.h5	190/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0022_002.h5	191/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0033_002.h5	192/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0010_002.h5	193/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0001_008.h5	194/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0002_007.h5	195/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0029_008.h5	196/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0031_006.h5	197/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0045_008.h5	198/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0034_005.h5	199/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0026_010.h5	200/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0045_010.h5	201/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0018_010.h5	202/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0036_004.h5	203/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0013_004.h5	204/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0027_009.h5	205/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0010_003.h5	206/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0012_003.h5	207/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0021_010.h5	208/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0045_003.h5	209/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0017_010.h5	210/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0004_004.h5	211/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0040_006.h5	212/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0042_008.h5	213/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0020_006.h5	214/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0018_004.h5	215/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0009_002.h5	216/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0013_006.h5	217/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0044_007.h5	218/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0027_010.h5	219/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0037_003.h5	220/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0015_008.h5	221/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0003_003.h5	222/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0018_005.h5	223/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0046_008.h5	224/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0012_010.h5	225/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0001_003.h5	226/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0029_007.h5	227/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0019_004.h5	228/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0000_004.h5	229/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0049_005.h5	230/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0009_005.h5	231/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0023_005.h5	232/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0040_008.h5	233/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0006_009.h5	234/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0041_007.h5	235/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0016_009.h5	236/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0000_007.h5	237/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0011_008.h5	238/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0030_006.h5	239/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0024_005.h5	240/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0022_009.h5	241/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0034_004.h5	242/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0042_004.h5	243/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0006_003.h5	244/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0028_002.h5	245/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0030_008.h5	246/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0009_009.h5	247/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0010_007.h5	248/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0049_010.h5	249/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0006_002.h5	250/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0049_008.h5	251/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0022_007.h5	252/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0016_005.h5	253/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0004_007.h5	254/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0007_008.h5	255/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0017_009.h5	256/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0029_004.h5	257/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0037_007.h5	258/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0034_003.h5	259/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0001_002.h5	260/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0024_006.h5	261/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0042_005.h5	262/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0039_002.h5	263/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0015_009.h5	264/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0028_004.h5	265/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0004_006.h5	266/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0036_008.h5	267/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0026_003.h5	268/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0032_010.h5	269/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0049_003.h5	270/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0030_004.h5	271/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0014_008.h5	272/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0014_009.h5	273/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0031_010.h5	274/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0040_009.h5	275/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0004_009.h5	276/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0028_009.h5	277/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0001_009.h5	278/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0028_005.h5	279/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0024_010.h5	280/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0005_006.h5	281/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0005_002.h5	282/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0001_006.h5	283/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0047_003.h5	284/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0003_008.h5	285/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0024_002.h5	286/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0025_004.h5	287/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0005_008.h5	288/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0042_003.h5	289/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0009_008.h5	290/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0000_006.h5	291/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0037_009.h5	292/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0017_006.h5	293/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0037_006.h5	294/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0044_004.h5	295/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0000_002.h5	296/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0019_006.h5	297/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0038_005.h5	298/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0014_004.h5	299/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0045_009.h5	300/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0029_009.h5	301/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0005_005.h5	302/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0021_005.h5	303/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0027_003.h5	304/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0031_003.h5	305/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0026_008.h5	306/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0009_006.h5	307/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0012_007.h5	308/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0027_004.h5	309/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0046_007.h5	310/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0042_006.h5	311/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0016_003.h5	312/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0026_002.h5	313/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0046_010.h5	314/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0049_006.h5	315/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0031_004.h5	316/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0011_009.h5	317/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0008_007.h5	318/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0024_008.h5	319/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0021_007.h5	320/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0044_002.h5	321/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0004_008.h5	322/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0026_007.h5	323/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0047_010.h5	324/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0028_003.h5	325/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0039_010.h5	326/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0042_007.h5	327/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0032_009.h5	328/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0049_004.h5	329/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0025_006.h5	330/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0020_004.h5	331/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0020_003.h5	332/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0025_010.h5	333/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0046_004.h5	334/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0043_007.h5	335/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0011_007.h5	336/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0049_007.h5	337/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0029_010.h5	338/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0029_005.h5	339/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0000_009.h5	340/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0027_008.h5	341/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0023_006.h5	342/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0020_008.h5	343/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0017_002.h5	344/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0000_010.h5	345/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0009_010.h5	346/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0013_003.h5	347/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0046_003.h5	348/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0015_007.h5	349/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0007_004.h5	350/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0006_010.h5	351/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0019_009.h5	352/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0019_007.h5	353/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0007_002.h5	354/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0044_008.h5	355/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0002_005.h5	356/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0035_010.h5	357/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0036_002.h5	358/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0031_008.h5	359/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0040_003.h5	360/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0002_002.h5	361/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0028_007.h5	362/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0033_005.h5	363/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0043_002.h5	364/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0043_003.h5	365/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0003_005.h5	366/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0008_010.h5	367/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0008_009.h5	368/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0023_008.h5	369/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0048_005.h5	370/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0003_010.h5	371/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0042_009.h5	372/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0040_010.h5	373/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0009_004.h5	374/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0014_005.h5	375/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0001_004.h5	376/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0043_008.h5	377/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0041_005.h5	378/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0030_007.h5	379/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0016_006.h5	380/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0042_010.h5	381/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0023_004.h5	382/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0021_006.h5	383/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0048_006.h5	384/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0006_004.h5	385/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0001_005.h5	386/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0046_006.h5	387/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0042_002.h5	388/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0013_008.h5	389/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0001_010.h5	390/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0016_008.h5	391/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0014_010.h5	392/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0025_009.h5	393/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0013_005.h5	394/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0041_002.h5	395/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0027_005.h5	396/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0015_010.h5	397/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0013_007.h5	398/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0025_005.h5	399/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0011_006.h5	400/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0008_002.h5	401/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0037_002.h5	402/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0026_005.h5	403/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0035_007.h5	404/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0000_008.h5	405/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0047_005.h5	406/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0018_007.h5	407/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0048_002.h5	408/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0049_009.h5	409/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0028_006.h5	410/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0007_007.h5	411/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0039_008.h5	412/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0048_003.h5	413/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0036_007.h5	414/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0028_008.h5	415/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0032_004.h5	416/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0008_006.h5	417/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0026_004.h5	418/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0003_009.h5	419/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0021_003.h5	420/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0045_002.h5	421/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0014_006.h5	422/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0004_002.h5	423/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0002_004.h5	424/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0031_002.h5	425/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0016_010.h5	426/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0032_008.h5	427/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0019_008.h5	428/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0020_007.h5	429/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0004_005.h5	430/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0032_005.h5	431/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0029_006.h5	432/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0036_006.h5	433/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0017_004.h5	434/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0039_003.h5	435/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0040_002.h5	436/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0025_008.h5	437/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0014_003.h5	438/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0005_007.h5	439/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0045_006.h5	440/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0041_010.h5	441/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0018_008.h5	442/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0013_009.h5	443/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0023_007.h5	444/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0032_006.h5	445/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0021_004.h5	446/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0031_009.h5	447/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0022_010.h5	448/450
+Loading train file ./Segmentation/data/Generated_Dataset_Test/h5/0022_003.h5	449/450
+
+>>> Training for the epoch 1,  1/100 ...
+09:49:07 - Batch: 0 / 1444, loss: 0.005783, score_loss: 0.000602, grouperr: 0.003996
+09:49:36 - Batch: 143 / 1444, loss: 0.654727, score_loss: 0.017598, grouperr: 0.612053
+09:50:04 - Batch: 287 / 1444, loss: 0.224714, score_loss: 0.013780, grouperr: 0.162214
+09:50:33 - Batch: 431 / 1444, loss: 0.172379, score_loss: 0.013827, grouperr: 0.127768
+09:51:02 - Batch: 575 / 1444, loss: 0.115728, score_loss: 0.013834, grouperr: 0.093764
+09:51:31 - Batch: 719 / 1444, loss: 0.106832, score_loss: 0.013744, grouperr: 0.086030
+09:52:00 - Batch: 863 / 1444, loss: 0.097458, score_loss: 0.013716, grouperr: 0.077595
+09:52:28 - Batch: 1007 / 1444, loss: 0.089841, score_loss: 0.013651, grouperr: 0.068969
+09:52:57 - Batch: 1151 / 1444, loss: 0.086328, score_loss: 0.013694, grouperr: 0.064749
+09:53:26 - Batch: 1295 / 1444, loss: 0.076392, score_loss: 0.013625, grouperr: 0.053211
+09:53:55 - Batch: 1439 / 1444, loss: 0.074547, score_loss: 0.013602, grouperr: 0.051533
+
+09:53:56 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_1.ckpt
+
+>>> Training for the epoch 2,  2/100 ...
+09:54:24 - Batch: 143 / 1444, loss: 0.071567, score_loss: 0.013609, grouperr: 0.047443
+09:54:53 - Batch: 287 / 1444, loss: 0.067121, score_loss: 0.013596, grouperr: 0.041104
+09:55:21 - Batch: 431 / 1444, loss: 0.064166, score_loss: 0.013524, grouperr: 0.036554
+09:55:50 - Batch: 575 / 1444, loss: 0.063634, score_loss: 0.013594, grouperr: 0.035710
+09:56:18 - Batch: 719 / 1444, loss: 0.061015, score_loss: 0.013534, grouperr: 0.031839
+09:56:47 - Batch: 863 / 1444, loss: 0.058912, score_loss: 0.013509, grouperr: 0.028926
+09:57:15 - Batch: 1007 / 1444, loss: 0.057547, score_loss: 0.013454, grouperr: 0.027122
+09:57:44 - Batch: 1151 / 1444, loss: 0.059313, score_loss: 0.013433, grouperr: 0.029643
+09:58:12 - Batch: 1295 / 1444, loss: 0.055807, score_loss: 0.013377, grouperr: 0.024825
+09:58:41 - Batch: 1439 / 1444, loss: 0.057856, score_loss: 0.013348, grouperr: 0.027279
+
+09:58:42 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_2.ckpt
+
+>>> Training for the epoch 3,  3/100 ...
+09:59:10 - Batch: 143 / 1444, loss: 0.054428, score_loss: 0.013273, grouperr: 0.022939
+09:59:39 - Batch: 287 / 1444, loss: 0.054150, score_loss: 0.013264, grouperr: 0.022510
+10:00:08 - Batch: 431 / 1444, loss: 0.052351, score_loss: 0.013136, grouperr: 0.020638
+10:00:36 - Batch: 575 / 1444, loss: 0.050955, score_loss: 0.013048, grouperr: 0.019446
+10:01:05 - Batch: 719 / 1444, loss: 0.051226, score_loss: 0.012905, grouperr: 0.019948
+10:01:33 - Batch: 863 / 1444, loss: 0.050050, score_loss: 0.012768, grouperr: 0.019127
+10:02:02 - Batch: 1007 / 1444, loss: 0.050213, score_loss: 0.012765, grouperr: 0.018751
+10:02:30 - Batch: 1151 / 1444, loss: 0.049959, score_loss: 0.012481, grouperr: 0.020372
+10:02:59 - Batch: 1295 / 1444, loss: 0.049157, score_loss: 0.012320, grouperr: 0.019044
+10:03:27 - Batch: 1439 / 1444, loss: 0.048666, score_loss: 0.012115, grouperr: 0.019779
+
+10:03:28 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_3.ckpt
+
+>>> Training for the epoch 4,  4/100 ...
+10:03:57 - Batch: 143 / 1444, loss: 0.048307, score_loss: 0.011808, grouperr: 0.020250
+10:04:25 - Batch: 287 / 1444, loss: 0.046293, score_loss: 0.011454, grouperr: 0.018766
+10:04:54 - Batch: 431 / 1444, loss: 0.044517, score_loss: 0.011129, grouperr: 0.017909
+10:05:23 - Batch: 575 / 1444, loss: 0.043734, score_loss: 0.010922, grouperr: 0.017186
+10:05:51 - Batch: 719 / 1444, loss: 0.039676, score_loss: 0.010173, grouperr: 0.015036
+10:06:20 - Batch: 863 / 1444, loss: 0.040066, score_loss: 0.009987, grouperr: 0.016536
+10:06:49 - Batch: 1007 / 1444, loss: 0.041067, score_loss: 0.009495, grouperr: 0.019255
+10:07:17 - Batch: 1151 / 1444, loss: 0.038745, score_loss: 0.009196, grouperr: 0.018028
+10:07:46 - Batch: 1295 / 1444, loss: 0.036018, score_loss: 0.008911, grouperr: 0.015168
+10:08:15 - Batch: 1439 / 1444, loss: 0.034338, score_loss: 0.008514, grouperr: 0.014253
+
+10:08:16 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_4.ckpt
+
+>>> Training for the epoch 5,  5/100 ...
+10:08:44 - Batch: 143 / 1444, loss: 0.034208, score_loss: 0.008321, grouperr: 0.014786
+10:09:13 - Batch: 287 / 1444, loss: 0.033155, score_loss: 0.008063, grouperr: 0.014610
+10:09:41 - Batch: 431 / 1444, loss: 0.032153, score_loss: 0.008007, grouperr: 0.013073
+10:10:10 - Batch: 575 / 1444, loss: 0.033664, score_loss: 0.007785, grouperr: 0.015659
+10:10:38 - Batch: 719 / 1444, loss: 0.034784, score_loss: 0.007717, grouperr: 0.018587
+10:11:07 - Batch: 863 / 1444, loss: 0.030711, score_loss: 0.007549, grouperr: 0.013192
+10:11:35 - Batch: 1007 / 1444, loss: 0.030886, score_loss: 0.007552, grouperr: 0.013468
+10:12:04 - Batch: 1151 / 1444, loss: 0.031126, score_loss: 0.007521, grouperr: 0.013453
+10:12:32 - Batch: 1295 / 1444, loss: 0.029594, score_loss: 0.007234, grouperr: 0.013407
+10:13:01 - Batch: 1439 / 1444, loss: 0.028961, score_loss: 0.007174, grouperr: 0.012293
+
+10:13:02 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_5.ckpt
+
+>>> Training for the epoch 6,  6/100 ...
+10:13:30 - Batch: 143 / 1444, loss: 0.028689, score_loss: 0.006934, grouperr: 0.012590
+10:13:59 - Batch: 287 / 1444, loss: 0.028392, score_loss: 0.007025, grouperr: 0.011886
+10:14:27 - Batch: 431 / 1444, loss: 0.028476, score_loss: 0.006861, grouperr: 0.012854
+10:14:56 - Batch: 575 / 1444, loss: 0.028011, score_loss: 0.007074, grouperr: 0.011358
+10:15:24 - Batch: 719 / 1444, loss: 0.027601, score_loss: 0.006772, grouperr: 0.011653
+10:15:53 - Batch: 863 / 1444, loss: 0.027324, score_loss: 0.006643, grouperr: 0.012001
+10:16:21 - Batch: 1007 / 1444, loss: 0.027392, score_loss: 0.006800, grouperr: 0.011382
+10:16:50 - Batch: 1151 / 1444, loss: 0.027149, score_loss: 0.006455, grouperr: 0.012586
+10:17:18 - Batch: 1295 / 1444, loss: 0.026028, score_loss: 0.006526, grouperr: 0.010510
+10:17:47 - Batch: 1439 / 1444, loss: 0.026038, score_loss: 0.006469, grouperr: 0.011015
+
+10:17:48 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_6.ckpt
+
+>>> Training for the epoch 7,  7/100 ...
+10:18:16 - Batch: 143 / 1444, loss: 0.025554, score_loss: 0.006279, grouperr: 0.011069
+10:18:45 - Batch: 287 / 1444, loss: 0.024492, score_loss: 0.006156, grouperr: 0.009749
+10:19:13 - Batch: 431 / 1444, loss: 0.024897, score_loss: 0.006103, grouperr: 0.010612
+10:19:42 - Batch: 575 / 1444, loss: 0.025593, score_loss: 0.006326, grouperr: 0.010606
+10:20:10 - Batch: 719 / 1444, loss: 0.024525, score_loss: 0.006150, grouperr: 0.010096
+10:20:39 - Batch: 863 / 1444, loss: 0.024996, score_loss: 0.006278, grouperr: 0.010178
+10:21:07 - Batch: 1007 / 1444, loss: 0.024224, score_loss: 0.006000, grouperr: 0.009914
+10:21:36 - Batch: 1151 / 1444, loss: 0.024442, score_loss: 0.006073, grouperr: 0.010059
+10:22:04 - Batch: 1295 / 1444, loss: 0.024815, score_loss: 0.006137, grouperr: 0.010934
+10:22:33 - Batch: 1439 / 1444, loss: 0.025474, score_loss: 0.006134, grouperr: 0.011095
+
+10:22:34 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_7.ckpt
+
+>>> Training for the epoch 8,  8/100 ...
+10:23:02 - Batch: 143 / 1444, loss: 0.022970, score_loss: 0.005861, grouperr: 0.008763
+10:23:31 - Batch: 287 / 1444, loss: 0.023292, score_loss: 0.005795, grouperr: 0.009517
+10:23:59 - Batch: 431 / 1444, loss: 0.023132, score_loss: 0.005868, grouperr: 0.009356
+10:24:28 - Batch: 575 / 1444, loss: 0.023113, score_loss: 0.005849, grouperr: 0.009139
+10:24:56 - Batch: 719 / 1444, loss: 0.022853, score_loss: 0.005748, grouperr: 0.009176
+10:25:25 - Batch: 863 / 1444, loss: 0.022813, score_loss: 0.005634, grouperr: 0.009271
+10:25:53 - Batch: 1007 / 1444, loss: 0.022701, score_loss: 0.005751, grouperr: 0.008881
+10:26:22 - Batch: 1151 / 1444, loss: 0.022497, score_loss: 0.005623, grouperr: 0.008878
+10:26:50 - Batch: 1295 / 1444, loss: 0.021907, score_loss: 0.005612, grouperr: 0.008166
+10:27:19 - Batch: 1439 / 1444, loss: 0.022388, score_loss: 0.005547, grouperr: 0.009154
+
+10:27:20 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_8.ckpt
+
+>>> Training for the epoch 9,  9/100 ...
+10:27:48 - Batch: 143 / 1444, loss: 0.021760, score_loss: 0.005665, grouperr: 0.007972
+10:28:16 - Batch: 287 / 1444, loss: 0.021418, score_loss: 0.005459, grouperr: 0.008224
+10:28:45 - Batch: 431 / 1444, loss: 0.022585, score_loss: 0.005591, grouperr: 0.009188
+10:29:13 - Batch: 575 / 1444, loss: 0.021543, score_loss: 0.005429, grouperr: 0.008589
+10:29:42 - Batch: 719 / 1444, loss: 0.021457, score_loss: 0.005420, grouperr: 0.008379
+10:30:10 - Batch: 863 / 1444, loss: 0.021364, score_loss: 0.005536, grouperr: 0.007642
+10:30:39 - Batch: 1007 / 1444, loss: 0.021354, score_loss: 0.005459, grouperr: 0.007988
+10:31:07 - Batch: 1151 / 1444, loss: 0.020590, score_loss: 0.005353, grouperr: 0.007365
+10:31:36 - Batch: 1295 / 1444, loss: 0.019773, score_loss: 0.005239, grouperr: 0.006742
+10:32:04 - Batch: 1439 / 1444, loss: 0.020996, score_loss: 0.005284, grouperr: 0.008012
+
+10:32:05 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_9.ckpt
+
+>>> Training for the epoch 10,  10/100 ...
+10:32:34 - Batch: 143 / 1444, loss: 0.020813, score_loss: 0.005411, grouperr: 0.007505
+10:33:02 - Batch: 287 / 1444, loss: 0.019912, score_loss: 0.005102, grouperr: 0.007340
+10:33:31 - Batch: 431 / 1444, loss: 0.020276, score_loss: 0.005216, grouperr: 0.007529
+10:33:59 - Batch: 575 / 1444, loss: 0.019924, score_loss: 0.005177, grouperr: 0.007095
+10:34:28 - Batch: 719 / 1444, loss: 0.020707, score_loss: 0.005346, grouperr: 0.007388
+10:34:56 - Batch: 863 / 1444, loss: 0.023588, score_loss: 0.005340, grouperr: 0.011965
+10:35:25 - Batch: 1007 / 1444, loss: 0.020413, score_loss: 0.005163, grouperr: 0.008023
+10:35:53 - Batch: 1151 / 1444, loss: 0.020359, score_loss: 0.005355, grouperr: 0.006802
+10:36:22 - Batch: 1295 / 1444, loss: 0.019880, score_loss: 0.005299, grouperr: 0.006765
+10:36:50 - Batch: 1439 / 1444, loss: 0.019883, score_loss: 0.005212, grouperr: 0.006766
+
+10:36:51 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_10.ckpt
+
+>>> Training for the epoch 11,  11/100 ...
+10:37:20 - Batch: 143 / 1444, loss: 0.018992, score_loss: 0.004968, grouperr: 0.006740
+10:37:48 - Batch: 287 / 1444, loss: 0.020128, score_loss: 0.005243, grouperr: 0.007006
+10:38:17 - Batch: 431 / 1444, loss: 0.019738, score_loss: 0.005063, grouperr: 0.007242
+10:38:45 - Batch: 575 / 1444, loss: 0.019721, score_loss: 0.004972, grouperr: 0.007465
+10:39:14 - Batch: 719 / 1444, loss: 0.018629, score_loss: 0.004855, grouperr: 0.006510
+10:39:42 - Batch: 863 / 1444, loss: 0.019248, score_loss: 0.004994, grouperr: 0.006814
+10:40:11 - Batch: 1007 / 1444, loss: 0.018533, score_loss: 0.004803, grouperr: 0.006621
+10:40:39 - Batch: 1151 / 1444, loss: 0.017711, score_loss: 0.004739, grouperr: 0.005648
+10:41:08 - Batch: 1295 / 1444, loss: 0.018656, score_loss: 0.004915, grouperr: 0.006377
+10:41:36 - Batch: 1439 / 1444, loss: 0.018505, score_loss: 0.004862, grouperr: 0.006297
+
+10:41:37 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_11.ckpt
+
+>>> Training for the epoch 12,  12/100 ...
+10:42:06 - Batch: 143 / 1444, loss: 0.018109, score_loss: 0.004955, grouperr: 0.005322
+10:42:34 - Batch: 287 / 1444, loss: 0.019096, score_loss: 0.004916, grouperr: 0.006878
+10:43:03 - Batch: 431 / 1444, loss: 0.018337, score_loss: 0.004708, grouperr: 0.006592
+10:43:31 - Batch: 575 / 1444, loss: 0.017986, score_loss: 0.004709, grouperr: 0.006227
+10:44:00 - Batch: 719 / 1444, loss: 0.018082, score_loss: 0.004776, grouperr: 0.005930
+10:44:28 - Batch: 863 / 1444, loss: 0.018163, score_loss: 0.004766, grouperr: 0.006378
+10:44:57 - Batch: 1007 / 1444, loss: 0.018606, score_loss: 0.004781, grouperr: 0.006954
+10:45:25 - Batch: 1151 / 1444, loss: 0.017672, score_loss: 0.004608, grouperr: 0.006056
+10:45:54 - Batch: 1295 / 1444, loss: 0.018583, score_loss: 0.004787, grouperr: 0.006534
+10:46:22 - Batch: 1439 / 1444, loss: 0.017148, score_loss: 0.004664, grouperr: 0.005175
+
+10:46:23 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_12.ckpt
+
+>>> Training for the epoch 13,  13/100 ...
+10:46:52 - Batch: 143 / 1444, loss: 0.016998, score_loss: 0.004507, grouperr: 0.005506
+10:47:20 - Batch: 287 / 1444, loss: 0.017374, score_loss: 0.004523, grouperr: 0.006162
+10:47:49 - Batch: 431 / 1444, loss: 0.017373, score_loss: 0.004567, grouperr: 0.005849
+10:48:17 - Batch: 575 / 1444, loss: 0.017233, score_loss: 0.004569, grouperr: 0.005524
+10:48:46 - Batch: 719 / 1444, loss: 0.017003, score_loss: 0.004505, grouperr: 0.005670
+10:49:14 - Batch: 863 / 1444, loss: 0.017074, score_loss: 0.004447, grouperr: 0.005915
+10:49:43 - Batch: 1007 / 1444, loss: 0.017562, score_loss: 0.004748, grouperr: 0.005358
+10:50:11 - Batch: 1151 / 1444, loss: 0.016978, score_loss: 0.004525, grouperr: 0.005514
+10:50:40 - Batch: 1295 / 1444, loss: 0.016405, score_loss: 0.004380, grouperr: 0.005238
+10:51:08 - Batch: 1439 / 1444, loss: 0.016724, score_loss: 0.004368, grouperr: 0.005747
+
+10:51:09 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_13.ckpt
+
+>>> Training for the epoch 14,  14/100 ...
+10:51:38 - Batch: 143 / 1444, loss: 0.015921, score_loss: 0.004345, grouperr: 0.004753
+10:52:06 - Batch: 287 / 1444, loss: 0.016864, score_loss: 0.004452, grouperr: 0.005445
+10:52:35 - Batch: 431 / 1444, loss: 0.015909, score_loss: 0.004408, grouperr: 0.004489
+10:53:03 - Batch: 575 / 1444, loss: 0.016147, score_loss: 0.004414, grouperr: 0.004758
+10:53:32 - Batch: 719 / 1444, loss: 0.016109, score_loss: 0.004202, grouperr: 0.005397
+10:54:00 - Batch: 863 / 1444, loss: 0.016775, score_loss: 0.004402, grouperr: 0.005671
+10:54:29 - Batch: 1007 / 1444, loss: 0.017163, score_loss: 0.004503, grouperr: 0.005715
+10:54:57 - Batch: 1151 / 1444, loss: 0.015300, score_loss: 0.004169, grouperr: 0.004584
+10:55:26 - Batch: 1295 / 1444, loss: 0.015940, score_loss: 0.004174, grouperr: 0.005395
+10:55:54 - Batch: 1439 / 1444, loss: 0.015869, score_loss: 0.004118, grouperr: 0.005478
+
+10:55:55 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_14.ckpt
+
+>>> Training for the epoch 15,  15/100 ...
+10:56:24 - Batch: 143 / 1444, loss: 0.016281, score_loss: 0.004408, grouperr: 0.004907
+10:56:52 - Batch: 287 / 1444, loss: 0.015952, score_loss: 0.004202, grouperr: 0.005229
+10:57:21 - Batch: 431 / 1444, loss: 0.015594, score_loss: 0.004205, grouperr: 0.004829
+10:57:49 - Batch: 575 / 1444, loss: 0.014900, score_loss: 0.004002, grouperr: 0.004611
+10:58:17 - Batch: 719 / 1444, loss: 0.014489, score_loss: 0.003943, grouperr: 0.004282
+10:58:46 - Batch: 863 / 1444, loss: 0.014846, score_loss: 0.003992, grouperr: 0.004566
+10:59:14 - Batch: 1007 / 1444, loss: 0.015091, score_loss: 0.004057, grouperr: 0.004668
+10:59:43 - Batch: 1151 / 1444, loss: 0.015764, score_loss: 0.004238, grouperr: 0.004876
+11:00:11 - Batch: 1295 / 1444, loss: 0.015709, score_loss: 0.004131, grouperr: 0.005214
+11:00:40 - Batch: 1439 / 1444, loss: 0.014886, score_loss: 0.004010, grouperr: 0.004624
+
+11:00:41 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_15.ckpt
+
+>>> Training for the epoch 16,  16/100 ...
+11:01:09 - Batch: 143 / 1444, loss: 0.014669, score_loss: 0.003940, grouperr: 0.004504
+11:01:38 - Batch: 287 / 1444, loss: 0.014504, score_loss: 0.003927, grouperr: 0.004406
+11:02:06 - Batch: 431 / 1444, loss: 0.014986, score_loss: 0.003979, grouperr: 0.004758
+11:02:35 - Batch: 575 / 1444, loss: 0.014256, score_loss: 0.003863, grouperr: 0.004342
+11:03:03 - Batch: 719 / 1444, loss: 0.013998, score_loss: 0.003741, grouperr: 0.004444
+11:03:32 - Batch: 863 / 1444, loss: 0.013588, score_loss: 0.003797, grouperr: 0.003739
+11:04:01 - Batch: 1007 / 1444, loss: 0.014689, score_loss: 0.003800, grouperr: 0.005037
+11:04:29 - Batch: 1151 / 1444, loss: 0.014525, score_loss: 0.003912, grouperr: 0.004444
+11:04:58 - Batch: 1295 / 1444, loss: 0.014013, score_loss: 0.003894, grouperr: 0.003918
+11:05:26 - Batch: 1439 / 1444, loss: 0.014681, score_loss: 0.003830, grouperr: 0.004917
+
+11:05:27 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_16.ckpt
+
+>>> Training for the epoch 17,  17/100 ...
+11:05:56 - Batch: 143 / 1444, loss: 0.013758, score_loss: 0.003839, grouperr: 0.003719
+11:06:24 - Batch: 287 / 1444, loss: 0.014048, score_loss: 0.003752, grouperr: 0.004358
+11:06:53 - Batch: 431 / 1444, loss: 0.014267, score_loss: 0.003804, grouperr: 0.004414
+11:07:21 - Batch: 575 / 1444, loss: 0.013555, score_loss: 0.003630, grouperr: 0.004392
+11:07:50 - Batch: 719 / 1444, loss: 0.013821, score_loss: 0.003691, grouperr: 0.004369
+11:08:18 - Batch: 863 / 1444, loss: 0.013434, score_loss: 0.003543, grouperr: 0.004337
+11:08:47 - Batch: 1007 / 1444, loss: 0.013847, score_loss: 0.003869, grouperr: 0.003799
+11:09:15 - Batch: 1151 / 1444, loss: 0.013474, score_loss: 0.003634, grouperr: 0.004101
+11:09:44 - Batch: 1295 / 1444, loss: 0.013259, score_loss: 0.003644, grouperr: 0.003796
+11:10:13 - Batch: 1439 / 1444, loss: 0.013794, score_loss: 0.003656, grouperr: 0.004404
+
+11:10:14 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_17.ckpt
+
+>>> Training for the epoch 18,  18/100 ...
+11:10:43 - Batch: 143 / 1444, loss: 0.012774, score_loss: 0.003445, grouperr: 0.003939
+11:11:12 - Batch: 287 / 1444, loss: 0.012444, score_loss: 0.003533, grouperr: 0.003173
+11:11:41 - Batch: 431 / 1444, loss: 0.013395, score_loss: 0.003631, grouperr: 0.003966
+11:12:10 - Batch: 575 / 1444, loss: 0.012689, score_loss: 0.003514, grouperr: 0.003531
+11:12:38 - Batch: 719 / 1444, loss: 0.013038, score_loss: 0.003521, grouperr: 0.003897
+11:13:07 - Batch: 863 / 1444, loss: 0.013371, score_loss: 0.003733, grouperr: 0.003662
+11:13:36 - Batch: 1007 / 1444, loss: 0.013166, score_loss: 0.003530, grouperr: 0.004057
+11:14:05 - Batch: 1151 / 1444, loss: 0.013084, score_loss: 0.003570, grouperr: 0.003770
+11:14:34 - Batch: 1295 / 1444, loss: 0.013405, score_loss: 0.003520, grouperr: 0.004421
+11:15:03 - Batch: 1439 / 1444, loss: 0.013250, score_loss: 0.003446, grouperr: 0.004389
+
+11:15:04 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_18.ckpt
+
+>>> Training for the epoch 19,  19/100 ...
+11:15:33 - Batch: 143 / 1444, loss: 0.012770, score_loss: 0.003513, grouperr: 0.003682
+11:16:01 - Batch: 287 / 1444, loss: 0.012111, score_loss: 0.003312, grouperr: 0.003590
+11:16:30 - Batch: 431 / 1444, loss: 0.012380, score_loss: 0.003330, grouperr: 0.003735
+11:16:59 - Batch: 575 / 1444, loss: 0.011894, score_loss: 0.003307, grouperr: 0.003276
+11:17:28 - Batch: 719 / 1444, loss: 0.013267, score_loss: 0.003533, grouperr: 0.004117
+11:17:57 - Batch: 863 / 1444, loss: 0.012824, score_loss: 0.003423, grouperr: 0.003948
+11:18:26 - Batch: 1007 / 1444, loss: 0.012231, score_loss: 0.003311, grouperr: 0.003697
+11:18:55 - Batch: 1151 / 1444, loss: 0.012134, score_loss: 0.003297, grouperr: 0.003527
+11:19:24 - Batch: 1295 / 1444, loss: 0.012261, score_loss: 0.003359, grouperr: 0.003448
+11:19:52 - Batch: 1439 / 1444, loss: 0.012444, score_loss: 0.003429, grouperr: 0.003506
+
+11:19:53 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_19.ckpt
+
+>>> Training for the epoch 20,  20/100 ...
+11:20:22 - Batch: 143 / 1444, loss: 0.012085, score_loss: 0.003315, grouperr: 0.003417
+11:20:50 - Batch: 287 / 1444, loss: 0.012257, score_loss: 0.003365, grouperr: 0.003469
+11:21:19 - Batch: 431 / 1444, loss: 0.011707, score_loss: 0.003280, grouperr: 0.003062
+11:21:47 - Batch: 575 / 1444, loss: 0.011560, score_loss: 0.003218, grouperr: 0.003059
+11:22:16 - Batch: 719 / 1444, loss: 0.012075, score_loss: 0.003293, grouperr: 0.003470
+11:22:44 - Batch: 863 / 1444, loss: 0.013036, score_loss: 0.003417, grouperr: 0.004287
+11:23:13 - Batch: 1007 / 1444, loss: 0.011274, score_loss: 0.003135, grouperr: 0.003054
+11:23:41 - Batch: 1151 / 1444, loss: 0.011229, score_loss: 0.003141, grouperr: 0.002992
+11:24:10 - Batch: 1295 / 1444, loss: 0.011715, score_loss: 0.003171, grouperr: 0.003447
+11:24:38 - Batch: 1439 / 1444, loss: 0.011885, score_loss: 0.003140, grouperr: 0.003800
+
+11:24:39 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_20.ckpt
+
+>>> Training for the epoch 21,  21/100 ...
+11:25:08 - Batch: 143 / 1444, loss: 0.011855, score_loss: 0.003283, grouperr: 0.003301
+11:25:36 - Batch: 287 / 1444, loss: 0.011903, score_loss: 0.003282, grouperr: 0.003254
+11:26:05 - Batch: 431 / 1444, loss: 0.011237, score_loss: 0.003101, grouperr: 0.003102
+11:26:33 - Batch: 575 / 1444, loss: 0.011353, score_loss: 0.003032, grouperr: 0.003653
+11:27:02 - Batch: 719 / 1444, loss: 0.011377, score_loss: 0.003057, grouperr: 0.003440
+11:27:30 - Batch: 863 / 1444, loss: 0.011424, score_loss: 0.003140, grouperr: 0.003165
+11:27:59 - Batch: 1007 / 1444, loss: 0.011311, score_loss: 0.003087, grouperr: 0.003271
+11:28:27 - Batch: 1151 / 1444, loss: 0.011901, score_loss: 0.003381, grouperr: 0.002916
+11:28:56 - Batch: 1295 / 1444, loss: 0.011364, score_loss: 0.003144, grouperr: 0.003097
+11:29:24 - Batch: 1439 / 1444, loss: 0.011892, score_loss: 0.003196, grouperr: 0.003560
+
+11:29:25 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_21.ckpt
+
+>>> Training for the epoch 22,  22/100 ...
+11:29:54 - Batch: 143 / 1444, loss: 0.010966, score_loss: 0.003064, grouperr: 0.002897
+11:30:22 - Batch: 287 / 1444, loss: 0.010712, score_loss: 0.002948, grouperr: 0.002984
+11:30:51 - Batch: 431 / 1444, loss: 0.011044, score_loss: 0.003036, grouperr: 0.003057
+11:31:19 - Batch: 575 / 1444, loss: 0.011093, score_loss: 0.003010, grouperr: 0.003275
+11:31:48 - Batch: 719 / 1444, loss: 0.011183, score_loss: 0.003056, grouperr: 0.003202
+11:32:16 - Batch: 863 / 1444, loss: 0.010919, score_loss: 0.002993, grouperr: 0.003111
+11:32:45 - Batch: 1007 / 1444, loss: 0.010894, score_loss: 0.003021, grouperr: 0.002944
+11:33:13 - Batch: 1151 / 1444, loss: 0.010934, score_loss: 0.003002, grouperr: 0.003078
+11:33:42 - Batch: 1295 / 1444, loss: 0.010754, score_loss: 0.002995, grouperr: 0.002854
+11:34:10 - Batch: 1439 / 1444, loss: 0.011180, score_loss: 0.002992, grouperr: 0.003408
+
+11:34:11 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_22.ckpt
+
+>>> Training for the epoch 23,  23/100 ...
+11:34:40 - Batch: 143 / 1444, loss: 0.010499, score_loss: 0.002895, grouperr: 0.002907
+11:35:08 - Batch: 287 / 1444, loss: 0.010342, score_loss: 0.002948, grouperr: 0.002511
+11:35:37 - Batch: 431 / 1444, loss: 0.010576, score_loss: 0.002840, grouperr: 0.003237
+11:36:05 - Batch: 575 / 1444, loss: 0.010026, score_loss: 0.002815, grouperr: 0.002592
+11:36:34 - Batch: 719 / 1444, loss: 0.010316, score_loss: 0.002807, grouperr: 0.002998
+11:37:02 - Batch: 863 / 1444, loss: 0.010774, score_loss: 0.002914, grouperr: 0.003152
+11:37:31 - Batch: 1007 / 1444, loss: 0.011132, score_loss: 0.003127, grouperr: 0.002794
+11:37:59 - Batch: 1151 / 1444, loss: 0.010789, score_loss: 0.002847, grouperr: 0.003466
+11:38:28 - Batch: 1295 / 1444, loss: 0.010696, score_loss: 0.003002, grouperr: 0.002725
+11:38:56 - Batch: 1439 / 1444, loss: 0.010458, score_loss: 0.002909, grouperr: 0.002752
+
+11:38:57 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_23.ckpt
+
+>>> Training for the epoch 24,  24/100 ...
+11:39:26 - Batch: 143 / 1444, loss: 0.009668, score_loss: 0.002734, grouperr: 0.002461
+11:39:54 - Batch: 287 / 1444, loss: 0.010096, score_loss: 0.002801, grouperr: 0.002727
+11:40:23 - Batch: 431 / 1444, loss: 0.010925, score_loss: 0.002920, grouperr: 0.003335
+11:40:51 - Batch: 575 / 1444, loss: 0.009784, score_loss: 0.002739, grouperr: 0.002545
+11:41:20 - Batch: 719 / 1444, loss: 0.010818, score_loss: 0.003013, grouperr: 0.002859
+11:41:48 - Batch: 863 / 1444, loss: 0.009951, score_loss: 0.002815, grouperr: 0.002460
+11:42:17 - Batch: 1007 / 1444, loss: 0.010813, score_loss: 0.002936, grouperr: 0.003114
+11:42:45 - Batch: 1151 / 1444, loss: 0.010300, score_loss: 0.002766, grouperr: 0.003106
+11:43:14 - Batch: 1295 / 1444, loss: 0.010207, score_loss: 0.002761, grouperr: 0.003036
+11:43:42 - Batch: 1439 / 1444, loss: 0.009761, score_loss: 0.002760, grouperr: 0.002433
+
+11:43:43 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_24.ckpt
+
+>>> Training for the epoch 25,  25/100 ...
+11:44:12 - Batch: 143 / 1444, loss: 0.009402, score_loss: 0.002626, grouperr: 0.002453
+11:44:40 - Batch: 287 / 1444, loss: 0.010198, score_loss: 0.002730, grouperr: 0.003103
+11:45:09 - Batch: 431 / 1444, loss: 0.010437, score_loss: 0.002866, grouperr: 0.002858
+11:45:37 - Batch: 575 / 1444, loss: 0.009555, score_loss: 0.002635, grouperr: 0.002609
+11:46:05 - Batch: 719 / 1444, loss: 0.009549, score_loss: 0.002641, grouperr: 0.002642
+11:46:34 - Batch: 863 / 1444, loss: 0.009765, score_loss: 0.002661, grouperr: 0.002849
+11:47:02 - Batch: 1007 / 1444, loss: 0.010064, score_loss: 0.002737, grouperr: 0.002830
+11:47:31 - Batch: 1151 / 1444, loss: 0.009612, score_loss: 0.002678, grouperr: 0.002550
+11:47:59 - Batch: 1295 / 1444, loss: 0.009801, score_loss: 0.002739, grouperr: 0.002545
+11:48:28 - Batch: 1439 / 1444, loss: 0.009184, score_loss: 0.002657, grouperr: 0.002071
+
+11:48:29 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_25.ckpt
+
+>>> Training for the epoch 26,  26/100 ...
+11:48:57 - Batch: 143 / 1444, loss: 0.009766, score_loss: 0.002725, grouperr: 0.002574
+11:49:26 - Batch: 287 / 1444, loss: 0.010433, score_loss: 0.002984, grouperr: 0.002351
+11:49:54 - Batch: 431 / 1444, loss: 0.009389, score_loss: 0.002605, grouperr: 0.002566
+11:50:23 - Batch: 575 / 1444, loss: 0.009391, score_loss: 0.002596, grouperr: 0.002569
+11:50:51 - Batch: 719 / 1444, loss: 0.009616, score_loss: 0.002785, grouperr: 0.002081
+11:51:20 - Batch: 863 / 1444, loss: 0.009130, score_loss: 0.002557, grouperr: 0.002317
+11:51:48 - Batch: 1007 / 1444, loss: 0.009509, score_loss: 0.002517, grouperr: 0.002989
+11:52:17 - Batch: 1151 / 1444, loss: 0.009515, score_loss: 0.002641, grouperr: 0.002570
+11:52:45 - Batch: 1295 / 1444, loss: 0.009335, score_loss: 0.002554, grouperr: 0.002669
+11:53:14 - Batch: 1439 / 1444, loss: 0.009329, score_loss: 0.002503, grouperr: 0.002822
+
+11:53:15 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_26.ckpt
+
+>>> Training for the epoch 27,  27/100 ...
+11:53:43 - Batch: 143 / 1444, loss: 0.009276, score_loss: 0.002590, grouperr: 0.002398
+11:54:12 - Batch: 287 / 1444, loss: 0.009290, score_loss: 0.002643, grouperr: 0.002266
+11:54:40 - Batch: 431 / 1444, loss: 0.009126, score_loss: 0.002542, grouperr: 0.002391
+11:55:09 - Batch: 575 / 1444, loss: 0.008920, score_loss: 0.002477, grouperr: 0.002397
+11:55:37 - Batch: 719 / 1444, loss: 0.008885, score_loss: 0.002515, grouperr: 0.002163
+11:56:06 - Batch: 863 / 1444, loss: 0.009122, score_loss: 0.002622, grouperr: 0.002096
+11:56:34 - Batch: 1007 / 1444, loss: 0.009101, score_loss: 0.002518, grouperr: 0.002436
+11:57:03 - Batch: 1151 / 1444, loss: 0.009116, score_loss: 0.002483, grouperr: 0.002600
+11:57:31 - Batch: 1295 / 1444, loss: 0.009267, score_loss: 0.002512, grouperr: 0.002686
+11:58:00 - Batch: 1439 / 1444, loss: 0.009489, score_loss: 0.002573, grouperr: 0.002719
+
+11:58:01 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_27.ckpt
+
+>>> Training for the epoch 28,  28/100 ...
+11:58:29 - Batch: 143 / 1444, loss: 0.008949, score_loss: 0.002499, grouperr: 0.002323
+11:58:57 - Batch: 287 / 1444, loss: 0.009112, score_loss: 0.002437, grouperr: 0.002774
+11:59:26 - Batch: 431 / 1444, loss: 0.008829, score_loss: 0.002388, grouperr: 0.002597
+11:59:54 - Batch: 575 / 1444, loss: 0.008929, score_loss: 0.002464, grouperr: 0.002445
+12:00:23 - Batch: 719 / 1444, loss: 0.008598, score_loss: 0.002480, grouperr: 0.001940
+12:00:51 - Batch: 863 / 1444, loss: 0.009116, score_loss: 0.002439, grouperr: 0.002738
+12:01:20 - Batch: 1007 / 1444, loss: 0.008589, score_loss: 0.002411, grouperr: 0.002181
+12:01:48 - Batch: 1151 / 1444, loss: 0.008519, score_loss: 0.002456, grouperr: 0.001915
+12:02:17 - Batch: 1295 / 1444, loss: 0.008739, score_loss: 0.002391, grouperr: 0.002479
+12:02:45 - Batch: 1439 / 1444, loss: 0.008911, score_loss: 0.002551, grouperr: 0.002043
+
+12:02:46 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_28.ckpt
+
+>>> Training for the epoch 29,  29/100 ...
+12:03:15 - Batch: 143 / 1444, loss: 0.008823, score_loss: 0.002460, grouperr: 0.002270
+12:03:43 - Batch: 287 / 1444, loss: 0.008135, score_loss: 0.002294, grouperr: 0.002030
+12:04:12 - Batch: 431 / 1444, loss: 0.008378, score_loss: 0.002327, grouperr: 0.002269
+12:04:40 - Batch: 575 / 1444, loss: 0.008354, score_loss: 0.002361, grouperr: 0.002076
+12:05:09 - Batch: 719 / 1444, loss: 0.008714, score_loss: 0.002367, grouperr: 0.002470
+12:05:37 - Batch: 863 / 1444, loss: 0.008625, score_loss: 0.002324, grouperr: 0.002586
+12:06:06 - Batch: 1007 / 1444, loss: 0.008502, score_loss: 0.002400, grouperr: 0.002065
+12:06:34 - Batch: 1151 / 1444, loss: 0.008942, score_loss: 0.002432, grouperr: 0.002539
+12:07:03 - Batch: 1295 / 1444, loss: 0.008326, score_loss: 0.002363, grouperr: 0.002036
+12:07:31 - Batch: 1439 / 1444, loss: 0.008379, score_loss: 0.002326, grouperr: 0.002203
+
+12:07:32 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_29.ckpt
+
+>>> Training for the epoch 30,  30/100 ...
+12:08:01 - Batch: 143 / 1444, loss: 0.008068, score_loss: 0.002289, grouperr: 0.001974
+12:08:29 - Batch: 287 / 1444, loss: 0.008045, score_loss: 0.002261, grouperr: 0.002023
+12:08:58 - Batch: 431 / 1444, loss: 0.008358, score_loss: 0.002361, grouperr: 0.002059
+12:09:26 - Batch: 575 / 1444, loss: 0.008300, score_loss: 0.002299, grouperr: 0.002173
+12:09:55 - Batch: 719 / 1444, loss: 0.008753, score_loss: 0.002402, grouperr: 0.002425
+12:10:23 - Batch: 863 / 1444, loss: 0.008710, score_loss: 0.002449, grouperr: 0.002161
+12:10:52 - Batch: 1007 / 1444, loss: 0.008531, score_loss: 0.002333, grouperr: 0.002362
+12:11:20 - Batch: 1151 / 1444, loss: 0.008198, score_loss: 0.002202, grouperr: 0.002445
+12:11:49 - Batch: 1295 / 1444, loss: 0.008396, score_loss: 0.002360, grouperr: 0.002123
+12:12:17 - Batch: 1439 / 1444, loss: 0.007764, score_loss: 0.002195, grouperr: 0.001923
+
+12:12:18 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_30.ckpt
+
+>>> Training for the epoch 31,  31/100 ...
+12:12:47 - Batch: 143 / 1444, loss: 0.008439, score_loss: 0.002315, grouperr: 0.002289
+12:13:15 - Batch: 287 / 1444, loss: 0.007740, score_loss: 0.002183, grouperr: 0.001908
+12:13:43 - Batch: 431 / 1444, loss: 0.008196, score_loss: 0.002210, grouperr: 0.002418
+12:14:12 - Batch: 575 / 1444, loss: 0.007456, score_loss: 0.002137, grouperr: 0.001731
+12:14:40 - Batch: 719 / 1444, loss: 0.008379, score_loss: 0.002305, grouperr: 0.002305
+12:15:09 - Batch: 863 / 1444, loss: 0.007675, score_loss: 0.002177, grouperr: 0.001873
+12:15:37 - Batch: 1007 / 1444, loss: 0.007775, score_loss: 0.002210, grouperr: 0.001893
+12:16:06 - Batch: 1151 / 1444, loss: 0.007885, score_loss: 0.002193, grouperr: 0.002051
+12:16:34 - Batch: 1295 / 1444, loss: 0.008400, score_loss: 0.002354, grouperr: 0.002138
+12:17:03 - Batch: 1439 / 1444, loss: 0.008279, score_loss: 0.002287, grouperr: 0.002190
+
+12:17:04 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_31.ckpt
+
+>>> Training for the epoch 32,  32/100 ...
+12:17:32 - Batch: 143 / 1444, loss: 0.007736, score_loss: 0.002176, grouperr: 0.001975
+12:18:01 - Batch: 287 / 1444, loss: 0.007575, score_loss: 0.002191, grouperr: 0.001687
+12:18:29 - Batch: 431 / 1444, loss: 0.007754, score_loss: 0.002134, grouperr: 0.002112
+12:18:58 - Batch: 575 / 1444, loss: 0.007338, score_loss: 0.002055, grouperr: 0.001914
+12:19:26 - Batch: 719 / 1444, loss: 0.008150, score_loss: 0.002196, grouperr: 0.002371
+12:19:55 - Batch: 863 / 1444, loss: 0.007936, score_loss: 0.002233, grouperr: 0.001963
+12:20:23 - Batch: 1007 / 1444, loss: 0.007795, score_loss: 0.002194, grouperr: 0.001944
+12:20:52 - Batch: 1151 / 1444, loss: 0.007987, score_loss: 0.002179, grouperr: 0.002226
+12:21:20 - Batch: 1295 / 1444, loss: 0.007601, score_loss: 0.002111, grouperr: 0.002003
+12:21:49 - Batch: 1439 / 1444, loss: 0.007877, score_loss: 0.002169, grouperr: 0.002109
+
+12:21:50 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_32.ckpt
+
+>>> Training for the epoch 33,  33/100 ...
+12:22:18 - Batch: 143 / 1444, loss: 0.007629, score_loss: 0.002084, grouperr: 0.002106
+12:22:47 - Batch: 287 / 1444, loss: 0.007708, score_loss: 0.002176, grouperr: 0.001907
+12:23:15 - Batch: 431 / 1444, loss: 0.007951, score_loss: 0.002176, grouperr: 0.002174
+12:23:44 - Batch: 575 / 1444, loss: 0.007489, score_loss: 0.002119, grouperr: 0.001841
+12:24:12 - Batch: 719 / 1444, loss: 0.015608, score_loss: 0.003052, grouperr: 0.009963
+12:24:41 - Batch: 863 / 1444, loss: 0.013177, score_loss: 0.003114, grouperr: 0.006512
+12:25:09 - Batch: 1007 / 1444, loss: 0.012099, score_loss: 0.002711, grouperr: 0.006558
+12:25:38 - Batch: 1151 / 1444, loss: 0.011325, score_loss: 0.002711, grouperr: 0.005442
+12:26:06 - Batch: 1295 / 1444, loss: 0.008597, score_loss: 0.002249, grouperr: 0.002839
+12:26:35 - Batch: 1439 / 1444, loss: 0.008151, score_loss: 0.002174, grouperr: 0.002529
+
+12:26:36 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_33.ckpt
+
+>>> Training for the epoch 34,  34/100 ...
+12:27:04 - Batch: 143 / 1444, loss: 0.008261, score_loss: 0.002092, grouperr: 0.002930
+12:27:33 - Batch: 287 / 1444, loss: 0.007328, score_loss: 0.002050, grouperr: 0.001937
+12:28:01 - Batch: 431 / 1444, loss: 0.007606, score_loss: 0.002078, grouperr: 0.002192
+12:28:30 - Batch: 575 / 1444, loss: 0.007240, score_loss: 0.002047, grouperr: 0.001787
+12:28:58 - Batch: 719 / 1444, loss: 0.007000, score_loss: 0.001957, grouperr: 0.001815
+12:29:27 - Batch: 863 / 1444, loss: 0.007326, score_loss: 0.002000, grouperr: 0.002053
+12:29:55 - Batch: 1007 / 1444, loss: 0.007560, score_loss: 0.002112, grouperr: 0.001908
+12:30:24 - Batch: 1151 / 1444, loss: 0.007248, score_loss: 0.002012, grouperr: 0.001890
+12:30:52 - Batch: 1295 / 1444, loss: 0.007045, score_loss: 0.002004, grouperr: 0.001711
+12:31:21 - Batch: 1439 / 1444, loss: 0.007385, score_loss: 0.001975, grouperr: 0.002193
+
+12:31:22 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_34.ckpt
+
+>>> Training for the epoch 35,  35/100 ...
+12:31:50 - Batch: 143 / 1444, loss: 0.007080, score_loss: 0.001945, grouperr: 0.001978
+12:32:19 - Batch: 287 / 1444, loss: 0.007584, score_loss: 0.002062, grouperr: 0.002120
+12:32:47 - Batch: 431 / 1444, loss: 0.007279, score_loss: 0.001994, grouperr: 0.002012
+12:33:16 - Batch: 575 / 1444, loss: 0.007078, score_loss: 0.001969, grouperr: 0.001842
+12:33:44 - Batch: 719 / 1444, loss: 0.007170, score_loss: 0.002009, grouperr: 0.001829
+12:34:13 - Batch: 863 / 1444, loss: 0.007371, score_loss: 0.002030, grouperr: 0.001969
+12:34:41 - Batch: 1007 / 1444, loss: 0.006839, score_loss: 0.001905, grouperr: 0.001806
+12:35:10 - Batch: 1151 / 1444, loss: 0.006824, score_loss: 0.001923, grouperr: 0.001658
+12:35:38 - Batch: 1295 / 1444, loss: 0.007726, score_loss: 0.002186, grouperr: 0.001798
+12:36:07 - Batch: 1439 / 1444, loss: 0.007273, score_loss: 0.002057, grouperr: 0.001756
+
+12:36:08 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_35.ckpt
+
+>>> Training for the epoch 36,  36/100 ...
+12:36:36 - Batch: 143 / 1444, loss: 0.006952, score_loss: 0.001970, grouperr: 0.001673
+12:37:05 - Batch: 287 / 1444, loss: 0.006780, score_loss: 0.001905, grouperr: 0.001726
+12:37:33 - Batch: 431 / 1444, loss: 0.007331, score_loss: 0.001965, grouperr: 0.002156
+12:38:02 - Batch: 575 / 1444, loss: 0.007274, score_loss: 0.001971, grouperr: 0.002054
+12:38:30 - Batch: 719 / 1444, loss: 0.007486, score_loss: 0.002065, grouperr: 0.002005
+12:38:59 - Batch: 863 / 1444, loss: 0.007030, score_loss: 0.001942, grouperr: 0.001880
+12:39:27 - Batch: 1007 / 1444, loss: 0.006951, score_loss: 0.001963, grouperr: 0.001743
+12:39:56 - Batch: 1151 / 1444, loss: 0.007035, score_loss: 0.001966, grouperr: 0.001791
+12:40:24 - Batch: 1295 / 1444, loss: 0.007416, score_loss: 0.002113, grouperr: 0.001729
+12:40:53 - Batch: 1439 / 1444, loss: 0.006663, score_loss: 0.001896, grouperr: 0.001566
+
+12:40:54 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_36.ckpt
+
+>>> Training for the epoch 37,  37/100 ...
+12:41:22 - Batch: 143 / 1444, loss: 0.006620, score_loss: 0.001889, grouperr: 0.001541
+12:41:51 - Batch: 287 / 1444, loss: 0.007060, score_loss: 0.002001, grouperr: 0.001703
+12:42:19 - Batch: 431 / 1444, loss: 0.007096, score_loss: 0.001946, grouperr: 0.001928
+12:42:48 - Batch: 575 / 1444, loss: 0.006952, score_loss: 0.001945, grouperr: 0.001765
+12:43:16 - Batch: 719 / 1444, loss: 0.007129, score_loss: 0.001916, grouperr: 0.002138
+12:43:45 - Batch: 863 / 1444, loss: 0.006846, score_loss: 0.001985, grouperr: 0.001502
+12:44:13 - Batch: 1007 / 1444, loss: 0.007394, score_loss: 0.002028, grouperr: 0.002020
+12:44:42 - Batch: 1151 / 1444, loss: 0.006991, score_loss: 0.001960, grouperr: 0.001762
+12:45:10 - Batch: 1295 / 1444, loss: 0.006721, score_loss: 0.001867, grouperr: 0.001765
+12:45:39 - Batch: 1439 / 1444, loss: 0.006559, score_loss: 0.001827, grouperr: 0.001678
+
+12:45:40 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_37.ckpt
+
+>>> Training for the epoch 38,  38/100 ...
+12:46:08 - Batch: 143 / 1444, loss: 0.006541, score_loss: 0.001836, grouperr: 0.001632
+12:46:37 - Batch: 287 / 1444, loss: 0.006725, score_loss: 0.001860, grouperr: 0.001772
+12:47:05 - Batch: 431 / 1444, loss: 0.007040, score_loss: 0.001980, grouperr: 0.001758
+12:47:34 - Batch: 575 / 1444, loss: 0.006558, score_loss: 0.001863, grouperr: 0.001583
+12:48:02 - Batch: 719 / 1444, loss: 0.006831, score_loss: 0.001879, grouperr: 0.001842
+12:48:31 - Batch: 863 / 1444, loss: 0.006795, score_loss: 0.001825, grouperr: 0.002015
+12:48:59 - Batch: 1007 / 1444, loss: 0.006574, score_loss: 0.001892, grouperr: 0.001487
+12:49:28 - Batch: 1151 / 1444, loss: 0.006657, score_loss: 0.001924, grouperr: 0.001479
+12:49:56 - Batch: 1295 / 1444, loss: 0.006942, score_loss: 0.001908, grouperr: 0.001894
+12:50:25 - Batch: 1439 / 1444, loss: 0.006888, score_loss: 0.001892, grouperr: 0.001912
+
+12:50:26 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_38.ckpt
+
+>>> Training for the epoch 39,  39/100 ...
+12:50:54 - Batch: 143 / 1444, loss: 0.006392, score_loss: 0.001810, grouperr: 0.001545
+12:51:23 - Batch: 287 / 1444, loss: 0.006277, score_loss: 0.001794, grouperr: 0.001482
+12:51:51 - Batch: 431 / 1444, loss: 0.006701, score_loss: 0.001856, grouperr: 0.001788
+12:52:20 - Batch: 575 / 1444, loss: 0.006590, score_loss: 0.001871, grouperr: 0.001577
+12:52:48 - Batch: 719 / 1444, loss: 0.007059, score_loss: 0.001953, grouperr: 0.001858
+12:53:17 - Batch: 863 / 1444, loss: 0.006599, score_loss: 0.001788, grouperr: 0.001910
+12:53:45 - Batch: 1007 / 1444, loss: 0.006628, score_loss: 0.001806, grouperr: 0.001880
+12:54:14 - Batch: 1151 / 1444, loss: 0.006866, score_loss: 0.001945, grouperr: 0.001657
+12:54:42 - Batch: 1295 / 1444, loss: 0.006401, score_loss: 0.001788, grouperr: 0.001640
+12:55:11 - Batch: 1439 / 1444, loss: 0.006543, score_loss: 0.001848, grouperr: 0.001645
+
+12:55:12 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_39.ckpt
+
+>>> Training for the epoch 40,  40/100 ...
+12:55:40 - Batch: 143 / 1444, loss: 0.006358, score_loss: 0.001795, grouperr: 0.001553
+12:56:09 - Batch: 287 / 1444, loss: 0.006104, score_loss: 0.001752, grouperr: 0.001386
+12:56:37 - Batch: 431 / 1444, loss: 0.006664, score_loss: 0.001793, grouperr: 0.001941
+12:57:06 - Batch: 575 / 1444, loss: 0.006312, score_loss: 0.001746, grouperr: 0.001665
+12:57:34 - Batch: 719 / 1444, loss: 0.006517, score_loss: 0.001797, grouperr: 0.001756
+12:58:03 - Batch: 863 / 1444, loss: 0.006423, score_loss: 0.001834, grouperr: 0.001512
+12:58:31 - Batch: 1007 / 1444, loss: 0.006663, score_loss: 0.001804, grouperr: 0.001934
+12:59:00 - Batch: 1151 / 1444, loss: 0.005862, score_loss: 0.001686, grouperr: 0.001375
+12:59:28 - Batch: 1295 / 1444, loss: 0.006590, score_loss: 0.001830, grouperr: 0.001726
+12:59:57 - Batch: 1439 / 1444, loss: 0.006302, score_loss: 0.001778, grouperr: 0.001549
+
+12:59:58 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_40.ckpt
+
+>>> Training for the epoch 41,  41/100 ...
+13:00:26 - Batch: 143 / 1444, loss: 0.005951, score_loss: 0.001682, grouperr: 0.001452
+13:00:55 - Batch: 287 / 1444, loss: 0.006190, score_loss: 0.001704, grouperr: 0.001682
+13:01:23 - Batch: 431 / 1444, loss: 0.005963, score_loss: 0.001705, grouperr: 0.001381
+13:01:52 - Batch: 575 / 1444, loss: 0.006383, score_loss: 0.001742, grouperr: 0.001792
+13:02:20 - Batch: 719 / 1444, loss: 0.005992, score_loss: 0.001699, grouperr: 0.001429
+13:02:49 - Batch: 863 / 1444, loss: 0.005811, score_loss: 0.001667, grouperr: 0.001300
+13:03:17 - Batch: 1007 / 1444, loss: 0.006458, score_loss: 0.001808, grouperr: 0.001653
+13:03:46 - Batch: 1151 / 1444, loss: 0.006550, score_loss: 0.001792, grouperr: 0.001840
+13:04:14 - Batch: 1295 / 1444, loss: 0.006329, score_loss: 0.001737, grouperr: 0.001759
+13:04:43 - Batch: 1439 / 1444, loss: 0.006320, score_loss: 0.001762, grouperr: 0.001627
+
+13:04:44 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_41.ckpt
+
+>>> Training for the epoch 42,  42/100 ...
+13:05:12 - Batch: 143 / 1444, loss: 0.006088, score_loss: 0.001706, grouperr: 0.001548
+13:05:41 - Batch: 287 / 1444, loss: 0.005987, score_loss: 0.001642, grouperr: 0.001645
+13:06:09 - Batch: 431 / 1444, loss: 0.007009, score_loss: 0.001993, grouperr: 0.001661
+13:06:37 - Batch: 575 / 1444, loss: 0.005892, score_loss: 0.001672, grouperr: 0.001423
+13:07:06 - Batch: 719 / 1444, loss: 0.006539, score_loss: 0.001760, grouperr: 0.001894
+13:07:34 - Batch: 863 / 1444, loss: 0.006351, score_loss: 0.001779, grouperr: 0.001586
+13:08:03 - Batch: 1007 / 1444, loss: 0.005694, score_loss: 0.001624, grouperr: 0.001343
+13:08:31 - Batch: 1151 / 1444, loss: 0.005660, score_loss: 0.001600, grouperr: 0.001437
+13:09:00 - Batch: 1295 / 1444, loss: 0.006449, score_loss: 0.001788, grouperr: 0.001678
+13:09:28 - Batch: 1439 / 1444, loss: 0.005864, score_loss: 0.001699, grouperr: 0.001270
+
+13:09:29 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_42.ckpt
+
+>>> Training for the epoch 43,  43/100 ...
+13:09:58 - Batch: 143 / 1444, loss: 0.005755, score_loss: 0.001696, grouperr: 0.001135
+13:10:26 - Batch: 287 / 1444, loss: 0.006235, score_loss: 0.001786, grouperr: 0.001418
+13:10:55 - Batch: 431 / 1444, loss: 0.006187, score_loss: 0.001673, grouperr: 0.001765
+13:11:23 - Batch: 575 / 1444, loss: 0.005825, score_loss: 0.001653, grouperr: 0.001422
+13:11:52 - Batch: 719 / 1444, loss: 0.006085, score_loss: 0.001717, grouperr: 0.001479
+13:12:20 - Batch: 863 / 1444, loss: 0.005802, score_loss: 0.001636, grouperr: 0.001429
+13:12:49 - Batch: 1007 / 1444, loss: 0.005646, score_loss: 0.001559, grouperr: 0.001556
+13:13:17 - Batch: 1151 / 1444, loss: 0.006191, score_loss: 0.001667, grouperr: 0.001834
+13:13:46 - Batch: 1295 / 1444, loss: 0.005934, score_loss: 0.001680, grouperr: 0.001454
+13:14:14 - Batch: 1439 / 1444, loss: 0.006081, score_loss: 0.001674, grouperr: 0.001613
+
+13:14:15 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_43.ckpt
+
+>>> Training for the epoch 44,  44/100 ...
+13:14:44 - Batch: 143 / 1444, loss: 0.005885, score_loss: 0.001626, grouperr: 0.001569
+13:15:12 - Batch: 287 / 1444, loss: 0.005428, score_loss: 0.001545, grouperr: 0.001307
+13:15:40 - Batch: 431 / 1444, loss: 0.005839, score_loss: 0.001652, grouperr: 0.001403
+13:16:09 - Batch: 575 / 1444, loss: 0.005898, score_loss: 0.001655, grouperr: 0.001479
+13:16:37 - Batch: 719 / 1444, loss: 0.005907, score_loss: 0.001660, grouperr: 0.001476
+13:17:06 - Batch: 863 / 1444, loss: 0.005856, score_loss: 0.001592, grouperr: 0.001678
+13:17:34 - Batch: 1007 / 1444, loss: 0.005798, score_loss: 0.001609, grouperr: 0.001531
+13:18:03 - Batch: 1151 / 1444, loss: 0.005540, score_loss: 0.001573, grouperr: 0.001353
+13:18:31 - Batch: 1295 / 1444, loss: 0.005832, score_loss: 0.001577, grouperr: 0.001725
+13:19:00 - Batch: 1439 / 1444, loss: 0.005459, score_loss: 0.001575, grouperr: 0.001238
+
+13:19:01 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_44.ckpt
+
+>>> Training for the epoch 45,  45/100 ...
+13:19:29 - Batch: 143 / 1444, loss: 0.005783, score_loss: 0.001636, grouperr: 0.001406
+13:19:58 - Batch: 287 / 1444, loss: 0.005615, score_loss: 0.001594, grouperr: 0.001348
+13:20:26 - Batch: 431 / 1444, loss: 0.005179, score_loss: 0.001504, grouperr: 0.001137
+13:20:55 - Batch: 575 / 1444, loss: 0.005933, score_loss: 0.001650, grouperr: 0.001548
+13:21:23 - Batch: 719 / 1444, loss: 0.005797, score_loss: 0.001630, grouperr: 0.001433
+13:21:52 - Batch: 863 / 1444, loss: 0.005555, score_loss: 0.001616, grouperr: 0.001171
+13:22:20 - Batch: 1007 / 1444, loss: 0.005798, score_loss: 0.001590, grouperr: 0.001590
+13:22:49 - Batch: 1151 / 1444, loss: 0.005844, score_loss: 0.001584, grouperr: 0.001718
+13:23:17 - Batch: 1295 / 1444, loss: 0.005644, score_loss: 0.001560, grouperr: 0.001486
+13:23:46 - Batch: 1439 / 1444, loss: 0.005612, score_loss: 0.001551, grouperr: 0.001517
+
+13:23:47 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_45.ckpt
+
+>>> Training for the epoch 46,  46/100 ...
+13:24:15 - Batch: 143 / 1444, loss: 0.005602, score_loss: 0.001532, grouperr: 0.001535
+13:24:44 - Batch: 287 / 1444, loss: 0.005498, score_loss: 0.001521, grouperr: 0.001498
+13:25:12 - Batch: 431 / 1444, loss: 0.005276, score_loss: 0.001508, grouperr: 0.001221
+13:25:41 - Batch: 575 / 1444, loss: 0.005620, score_loss: 0.001638, grouperr: 0.001172
+13:26:09 - Batch: 719 / 1444, loss: 0.005625, score_loss: 0.001551, grouperr: 0.001527
+13:26:38 - Batch: 863 / 1444, loss: 0.005511, score_loss: 0.001511, grouperr: 0.001542
+13:27:06 - Batch: 1007 / 1444, loss: 0.005792, score_loss: 0.001588, grouperr: 0.001613
+13:27:35 - Batch: 1151 / 1444, loss: 0.005486, score_loss: 0.001532, grouperr: 0.001391
+13:28:03 - Batch: 1295 / 1444, loss: 0.004919, score_loss: 0.001443, grouperr: 0.001028
+13:28:31 - Batch: 1439 / 1444, loss: 0.005738, score_loss: 0.001592, grouperr: 0.001513
+
+13:28:32 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_46.ckpt
+
+>>> Training for the epoch 47,  47/100 ...
+13:29:01 - Batch: 143 / 1444, loss: 0.005488, score_loss: 0.001540, grouperr: 0.001371
+13:29:29 - Batch: 287 / 1444, loss: 0.005263, score_loss: 0.001555, grouperr: 0.001026
+13:29:58 - Batch: 431 / 1444, loss: 0.005540, score_loss: 0.001554, grouperr: 0.001387
+13:30:26 - Batch: 575 / 1444, loss: 0.005742, score_loss: 0.001555, grouperr: 0.001647
+13:30:55 - Batch: 719 / 1444, loss: 0.005297, score_loss: 0.001470, grouperr: 0.001413
+13:31:23 - Batch: 863 / 1444, loss: 0.005607, score_loss: 0.001513, grouperr: 0.001614
+13:31:52 - Batch: 1007 / 1444, loss: 0.005353, score_loss: 0.001498, grouperr: 0.001370
+13:32:20 - Batch: 1151 / 1444, loss: 0.005248, score_loss: 0.001457, grouperr: 0.001403
+13:32:49 - Batch: 1295 / 1444, loss: 0.005524, score_loss: 0.001563, grouperr: 0.001390
+13:33:17 - Batch: 1439 / 1444, loss: 0.005058, score_loss: 0.001456, grouperr: 0.001152
+
+13:33:18 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_47.ckpt
+
+>>> Training for the epoch 48,  48/100 ...
+13:33:47 - Batch: 143 / 1444, loss: 0.005200, score_loss: 0.001478, grouperr: 0.001209
+13:34:15 - Batch: 287 / 1444, loss: 0.005227, score_loss: 0.001462, grouperr: 0.001346
+13:34:44 - Batch: 431 / 1444, loss: 0.005113, score_loss: 0.001452, grouperr: 0.001245
+13:35:12 - Batch: 575 / 1444, loss: 0.005193, score_loss: 0.001451, grouperr: 0.001360
+13:35:41 - Batch: 719 / 1444, loss: 0.005255, score_loss: 0.001483, grouperr: 0.001291
+13:36:09 - Batch: 863 / 1444, loss: 0.005545, score_loss: 0.001520, grouperr: 0.001527
+13:36:38 - Batch: 1007 / 1444, loss: 0.005381, score_loss: 0.001557, grouperr: 0.001179
+13:37:06 - Batch: 1151 / 1444, loss: 0.005285, score_loss: 0.001433, grouperr: 0.001504
+13:37:35 - Batch: 1295 / 1444, loss: 0.005443, score_loss: 0.001521, grouperr: 0.001396
+13:38:03 - Batch: 1439 / 1444, loss: 0.005267, score_loss: 0.001488, grouperr: 0.001301
+
+13:38:04 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_48.ckpt
+
+>>> Training for the epoch 49,  49/100 ...
+13:38:33 - Batch: 143 / 1444, loss: 0.004887, score_loss: 0.001411, grouperr: 0.001072
+13:39:01 - Batch: 287 / 1444, loss: 0.005130, score_loss: 0.001414, grouperr: 0.001357
+13:39:29 - Batch: 431 / 1444, loss: 0.005301, score_loss: 0.001483, grouperr: 0.001342
+13:39:58 - Batch: 575 / 1444, loss: 0.005219, score_loss: 0.001470, grouperr: 0.001288
+13:40:26 - Batch: 719 / 1444, loss: 0.005057, score_loss: 0.001416, grouperr: 0.001269
+13:40:55 - Batch: 863 / 1444, loss: 0.005313, score_loss: 0.001469, grouperr: 0.001428
+13:41:23 - Batch: 1007 / 1444, loss: 0.005318, score_loss: 0.001507, grouperr: 0.001299
+13:41:52 - Batch: 1151 / 1444, loss: 0.005035, score_loss: 0.001405, grouperr: 0.001318
+13:42:20 - Batch: 1295 / 1444, loss: 0.005737, score_loss: 0.001586, grouperr: 0.001526
+13:42:49 - Batch: 1439 / 1444, loss: 0.005036, score_loss: 0.001446, grouperr: 0.001174
+
+13:42:50 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_49.ckpt
+
+>>> Training for the epoch 50,  50/100 ...
+13:43:18 - Batch: 143 / 1444, loss: 0.005047, score_loss: 0.001392, grouperr: 0.001366
+13:43:47 - Batch: 287 / 1444, loss: 0.004983, score_loss: 0.001444, grouperr: 0.001087
+13:44:15 - Batch: 431 / 1444, loss: 0.005228, score_loss: 0.001449, grouperr: 0.001386
+13:44:44 - Batch: 575 / 1444, loss: 0.004849, score_loss: 0.001388, grouperr: 0.001155
+13:45:12 - Batch: 719 / 1444, loss: 0.005097, score_loss: 0.001376, grouperr: 0.001511
+13:45:40 - Batch: 863 / 1444, loss: 0.005031, score_loss: 0.001420, grouperr: 0.001213
+13:46:09 - Batch: 1007 / 1444, loss: 0.004881, score_loss: 0.001402, grouperr: 0.001130
+13:46:37 - Batch: 1151 / 1444, loss: 0.004909, score_loss: 0.001375, grouperr: 0.001263
+13:47:06 - Batch: 1295 / 1444, loss: 0.005592, score_loss: 0.001530, grouperr: 0.001522
+13:47:34 - Batch: 1439 / 1444, loss: 0.005309, score_loss: 0.001507, grouperr: 0.001267
+
+13:47:35 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_50.ckpt
+
+>>> Training for the epoch 51,  51/100 ...
+13:48:04 - Batch: 143 / 1444, loss: 0.004972, score_loss: 0.001423, grouperr: 0.001194
+13:48:32 - Batch: 287 / 1444, loss: 0.005531, score_loss: 0.001550, grouperr: 0.001431
+13:49:01 - Batch: 431 / 1444, loss: 0.005310, score_loss: 0.001513, grouperr: 0.001244
+13:49:29 - Batch: 575 / 1444, loss: 0.004963, score_loss: 0.001351, grouperr: 0.001389
+13:49:58 - Batch: 719 / 1444, loss: 0.004743, score_loss: 0.001295, grouperr: 0.001352
+13:50:26 - Batch: 863 / 1444, loss: 0.004708, score_loss: 0.001368, grouperr: 0.001024
+13:50:55 - Batch: 1007 / 1444, loss: 0.004690, score_loss: 0.001329, grouperr: 0.001131
+13:51:23 - Batch: 1151 / 1444, loss: 0.004976, score_loss: 0.001387, grouperr: 0.001285
+13:51:52 - Batch: 1295 / 1444, loss: 0.005127, score_loss: 0.001425, grouperr: 0.001317
+13:52:20 - Batch: 1439 / 1444, loss: 0.005170, score_loss: 0.001435, grouperr: 0.001396
+
+13:52:21 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_51.ckpt
+
+>>> Training for the epoch 52,  52/100 ...
+13:52:50 - Batch: 143 / 1444, loss: 0.004779, score_loss: 0.001352, grouperr: 0.001186
+13:53:18 - Batch: 287 / 1444, loss: 0.004947, score_loss: 0.001376, grouperr: 0.001285
+13:53:47 - Batch: 431 / 1444, loss: 0.005210, score_loss: 0.001415, grouperr: 0.001491
+13:54:15 - Batch: 575 / 1444, loss: 0.004919, score_loss: 0.001372, grouperr: 0.001287
+13:54:44 - Batch: 719 / 1444, loss: 0.004687, score_loss: 0.001350, grouperr: 0.001065
+13:55:12 - Batch: 863 / 1444, loss: 0.004933, score_loss: 0.001381, grouperr: 0.001232
+13:55:41 - Batch: 1007 / 1444, loss: 0.004944, score_loss: 0.001408, grouperr: 0.001158
+13:56:09 - Batch: 1151 / 1444, loss: 0.004672, score_loss: 0.001327, grouperr: 0.001117
+13:56:38 - Batch: 1295 / 1444, loss: 0.004876, score_loss: 0.001357, grouperr: 0.001299
+13:57:06 - Batch: 1439 / 1444, loss: 0.004497, score_loss: 0.001271, grouperr: 0.001114
+
+13:57:07 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_52.ckpt
+
+>>> Training for the epoch 53,  53/100 ...
+13:57:36 - Batch: 143 / 1444, loss: 0.004988, score_loss: 0.001441, grouperr: 0.001091
+13:58:04 - Batch: 287 / 1444, loss: 0.004885, score_loss: 0.001337, grouperr: 0.001346
+13:58:33 - Batch: 431 / 1444, loss: 0.004648, score_loss: 0.001305, grouperr: 0.001176
+13:59:01 - Batch: 575 / 1444, loss: 0.004955, score_loss: 0.001402, grouperr: 0.001179
+13:59:30 - Batch: 719 / 1444, loss: 0.004535, score_loss: 0.001284, grouperr: 0.001110
+13:59:58 - Batch: 863 / 1444, loss: 0.004857, score_loss: 0.001371, grouperr: 0.001174
+14:00:27 - Batch: 1007 / 1444, loss: 0.004888, score_loss: 0.001374, grouperr: 0.001237
+14:00:55 - Batch: 1151 / 1444, loss: 0.004654, score_loss: 0.001283, grouperr: 0.001279
+14:01:24 - Batch: 1295 / 1444, loss: 0.004578, score_loss: 0.001280, grouperr: 0.001186
+14:01:52 - Batch: 1439 / 1444, loss: 0.004828, score_loss: 0.001333, grouperr: 0.001329
+
+14:01:53 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_53.ckpt
+
+>>> Training for the epoch 54,  54/100 ...
+14:02:22 - Batch: 143 / 1444, loss: 0.005016, score_loss: 0.001392, grouperr: 0.001330
+14:02:50 - Batch: 287 / 1444, loss: 0.004836, score_loss: 0.001345, grouperr: 0.001283
+14:03:19 - Batch: 431 / 1444, loss: 0.004513, score_loss: 0.001307, grouperr: 0.000968
+14:03:47 - Batch: 575 / 1444, loss: 0.004531, score_loss: 0.001296, grouperr: 0.001064
+14:04:16 - Batch: 719 / 1444, loss: 0.004863, score_loss: 0.001357, grouperr: 0.001244
+14:04:44 - Batch: 863 / 1444, loss: 0.004544, score_loss: 0.001278, grouperr: 0.001148
+14:05:13 - Batch: 1007 / 1444, loss: 0.004531, score_loss: 0.001269, grouperr: 0.001141
+14:05:41 - Batch: 1151 / 1444, loss: 0.004830, score_loss: 0.001322, grouperr: 0.001360
+14:06:10 - Batch: 1295 / 1444, loss: 0.004709, score_loss: 0.001275, grouperr: 0.001390
+14:06:38 - Batch: 1439 / 1444, loss: 0.004512, score_loss: 0.001284, grouperr: 0.001072
+
+14:06:39 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_54.ckpt
+
+>>> Training for the epoch 55,  55/100 ...
+14:07:08 - Batch: 143 / 1444, loss: 0.004565, score_loss: 0.001272, grouperr: 0.001191
+14:07:36 - Batch: 287 / 1444, loss: 0.004837, score_loss: 0.001319, grouperr: 0.001363
+14:08:05 - Batch: 431 / 1444, loss: 0.004720, score_loss: 0.001271, grouperr: 0.001399
+14:08:33 - Batch: 575 / 1444, loss: 0.004546, score_loss: 0.001330, grouperr: 0.000972
+14:09:02 - Batch: 719 / 1444, loss: 0.004494, score_loss: 0.001247, grouperr: 0.001191
+14:09:30 - Batch: 863 / 1444, loss: 0.004921, score_loss: 0.001385, grouperr: 0.001232
+14:09:59 - Batch: 1007 / 1444, loss: 0.004572, score_loss: 0.001279, grouperr: 0.001179
+14:10:27 - Batch: 1151 / 1444, loss: 0.004425, score_loss: 0.001263, grouperr: 0.001031
+14:10:55 - Batch: 1295 / 1444, loss: 0.004347, score_loss: 0.001240, grouperr: 0.001025
+14:11:24 - Batch: 1439 / 1444, loss: 0.004618, score_loss: 0.001291, grouperr: 0.001195
+
+14:11:25 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_55.ckpt
+
+>>> Training for the epoch 56,  56/100 ...
+14:11:53 - Batch: 143 / 1444, loss: 0.004748, score_loss: 0.001308, grouperr: 0.001287
+14:12:22 - Batch: 287 / 1444, loss: 0.004638, score_loss: 0.001255, grouperr: 0.001341
+14:12:50 - Batch: 431 / 1444, loss: 0.004403, score_loss: 0.001197, grouperr: 0.001262
+14:13:19 - Batch: 575 / 1444, loss: 0.004143, score_loss: 0.001211, grouperr: 0.000891
+14:13:47 - Batch: 719 / 1444, loss: 0.004812, score_loss: 0.001340, grouperr: 0.001236
+14:14:16 - Batch: 863 / 1444, loss: 0.004330, score_loss: 0.001252, grouperr: 0.000974
+14:14:44 - Batch: 1007 / 1444, loss: 0.004531, score_loss: 0.001247, grouperr: 0.001273
+14:15:13 - Batch: 1151 / 1444, loss: 0.004531, score_loss: 0.001303, grouperr: 0.000998
+14:15:41 - Batch: 1295 / 1444, loss: 0.004496, score_loss: 0.001266, grouperr: 0.001133
+14:16:10 - Batch: 1439 / 1444, loss: 0.004974, score_loss: 0.001432, grouperr: 0.001081
+
+14:16:11 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_56.ckpt
+
+>>> Training for the epoch 57,  57/100 ...
+14:16:39 - Batch: 143 / 1444, loss: 0.004376, score_loss: 0.001237, grouperr: 0.001110
+14:17:08 - Batch: 287 / 1444, loss: 0.004507, score_loss: 0.001217, grouperr: 0.001335
+14:17:36 - Batch: 431 / 1444, loss: 0.004270, score_loss: 0.001223, grouperr: 0.000988
+14:18:05 - Batch: 575 / 1444, loss: 0.004252, score_loss: 0.001207, grouperr: 0.001033
+14:18:33 - Batch: 719 / 1444, loss: 0.004179, score_loss: 0.001206, grouperr: 0.000934
+14:19:02 - Batch: 863 / 1444, loss: 0.004618, score_loss: 0.001294, grouperr: 0.001175
+14:19:30 - Batch: 1007 / 1444, loss: 0.004563, score_loss: 0.001296, grouperr: 0.001096
+14:19:59 - Batch: 1151 / 1444, loss: 0.004426, score_loss: 0.001229, grouperr: 0.001168
+14:20:27 - Batch: 1295 / 1444, loss: 0.004480, score_loss: 0.001254, grouperr: 0.001156
+14:20:56 - Batch: 1439 / 1444, loss: 0.004767, score_loss: 0.001301, grouperr: 0.001379
+
+14:20:56 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_57.ckpt
+
+>>> Training for the epoch 58,  58/100 ...
+14:21:25 - Batch: 143 / 1444, loss: 0.004228, score_loss: 0.001178, grouperr: 0.001117
+14:21:53 - Batch: 287 / 1444, loss: 0.004515, score_loss: 0.001226, grouperr: 0.001313
+14:22:22 - Batch: 431 / 1444, loss: 0.004343, score_loss: 0.001237, grouperr: 0.001012
+14:22:50 - Batch: 575 / 1444, loss: 0.004731, score_loss: 0.001374, grouperr: 0.001016
+14:23:19 - Batch: 719 / 1444, loss: 0.004330, score_loss: 0.001220, grouperr: 0.001119
+14:23:47 - Batch: 863 / 1444, loss: 0.004650, score_loss: 0.001295, grouperr: 0.001202
+14:24:16 - Batch: 1007 / 1444, loss: 0.004343, score_loss: 0.001193, grouperr: 0.001215
+14:24:44 - Batch: 1151 / 1444, loss: 0.004292, score_loss: 0.001219, grouperr: 0.001028
+14:25:13 - Batch: 1295 / 1444, loss: 0.004238, score_loss: 0.001210, grouperr: 0.000988
+14:25:41 - Batch: 1439 / 1444, loss: 0.004205, score_loss: 0.001167, grouperr: 0.001108
+
+14:25:42 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_58.ckpt
+
+>>> Training for the epoch 59,  59/100 ...
+14:26:11 - Batch: 143 / 1444, loss: 0.004243, score_loss: 0.001197, grouperr: 0.001056
+14:26:39 - Batch: 287 / 1444, loss: 0.003903, score_loss: 0.001137, grouperr: 0.000852
+14:27:08 - Batch: 431 / 1444, loss: 0.004087, score_loss: 0.001146, grouperr: 0.001069
+14:27:36 - Batch: 575 / 1444, loss: 0.004518, score_loss: 0.001243, grouperr: 0.001276
+14:28:05 - Batch: 719 / 1444, loss: 0.004631, score_loss: 0.001270, grouperr: 0.001254
+14:28:33 - Batch: 863 / 1444, loss: 0.004219, score_loss: 0.001170, grouperr: 0.001125
+14:29:02 - Batch: 1007 / 1444, loss: 0.004209, score_loss: 0.001192, grouperr: 0.001011
+14:29:30 - Batch: 1151 / 1444, loss: 0.004121, score_loss: 0.001136, grouperr: 0.001147
+14:29:59 - Batch: 1295 / 1444, loss: 0.004238, score_loss: 0.001170, grouperr: 0.001159
+14:30:27 - Batch: 1439 / 1444, loss: 0.004457, score_loss: 0.001262, grouperr: 0.001077
+
+14:30:28 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_59.ckpt
+
+>>> Training for the epoch 60,  60/100 ...
+14:30:57 - Batch: 143 / 1444, loss: 0.004163, score_loss: 0.001164, grouperr: 0.001082
+14:31:25 - Batch: 287 / 1444, loss: 0.004523, score_loss: 0.001256, grouperr: 0.001207
+14:31:54 - Batch: 431 / 1444, loss: 0.003876, score_loss: 0.001121, grouperr: 0.000862
+14:32:22 - Batch: 575 / 1444, loss: 0.004276, score_loss: 0.001161, grouperr: 0.001229
+14:32:51 - Batch: 719 / 1444, loss: 0.004028, score_loss: 0.001133, grouperr: 0.001033
+14:33:19 - Batch: 863 / 1444, loss: 0.004230, score_loss: 0.001197, grouperr: 0.001000
+14:33:48 - Batch: 1007 / 1444, loss: 0.004250, score_loss: 0.001246, grouperr: 0.000891
+14:34:16 - Batch: 1151 / 1444, loss: 0.004262, score_loss: 0.001188, grouperr: 0.001087
+14:34:45 - Batch: 1295 / 1444, loss: 0.004226, score_loss: 0.001138, grouperr: 0.001295
+14:35:13 - Batch: 1439 / 1444, loss: 0.004082, score_loss: 0.001158, grouperr: 0.000979
+
+14:35:14 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_60.ckpt
+
+>>> Training for the epoch 61,  61/100 ...
+14:35:43 - Batch: 143 / 1444, loss: 0.004143, score_loss: 0.001166, grouperr: 0.001035
+14:36:11 - Batch: 287 / 1444, loss: 0.004024, score_loss: 0.001124, grouperr: 0.001028
+14:36:40 - Batch: 431 / 1444, loss: 0.004619, score_loss: 0.001320, grouperr: 0.001061
+14:37:08 - Batch: 575 / 1444, loss: 0.004118, score_loss: 0.001147, grouperr: 0.001093
+14:37:37 - Batch: 719 / 1444, loss: 0.004669, score_loss: 0.001250, grouperr: 0.001405
+14:38:05 - Batch: 863 / 1444, loss: 0.004075, score_loss: 0.001140, grouperr: 0.001063
+14:38:34 - Batch: 1007 / 1444, loss: 0.003820, score_loss: 0.001098, grouperr: 0.000874
+14:39:02 - Batch: 1151 / 1444, loss: 0.004183, score_loss: 0.001153, grouperr: 0.001191
+14:39:31 - Batch: 1295 / 1444, loss: 0.004109, score_loss: 0.001150, grouperr: 0.001063
+14:39:59 - Batch: 1439 / 1444, loss: 0.004090, score_loss: 0.001163, grouperr: 0.000989
+
+14:40:00 - Successfully store the checkpoint model into Segmentation/checkpoint/T_join_trained_NN/epoch_61.ckpt
+
+>>> Training for the epoch 62,  62/100 ...
+14:40:28 - Batch: 143 / 1444, loss: 0.004095, score_loss: 0.001176, grouperr: 0.000910

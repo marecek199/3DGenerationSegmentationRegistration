@@ -1,0 +1,15 @@
+{
+"type": "RevolutionPoseUtils", 
+
+"rotoreflection_symmetry": false, 
+
+"tref2i": [[0.0], [0.0], [-2.86788e-005]], 
+
+"Rref2i": [[ 1,  0,  0],
+       [ 0,  1,  0],
+       [ 0,  0,  1]], 
+
+"lambda": 0.0346113,
+
+"distance_threshold": 0.012142457068
+}

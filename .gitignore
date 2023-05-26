@@ -1,0 +1,36 @@
+# ignore all files in FPCC 
+FPCC/
+
+# ignore all files in .venv
+.venv/
+
+datas/IPAGearShaft_part_2/
+
+datas/IPAGearShaft_part_1.7z
+
+OMNet/
+
+RPMNet/
+
+GMCNet/
+
+Partial-Point-Cloud-Registration-with-Deep-Local-Feature/
+
+OMNet_Pytorch/
+
+TEASER-plusplus/
+
+GMCNet/
+QBB/
+TEASER-plusplus/
+registrationExamplesProBreg/
+
+# Datas
+datas/IPAGearShaft_MINE_overlapPrevent/
+testingFromNNDatas/gshaftGeneratedData_old/
+datas/IPAGearShaft_MINE_overlapPrevent_Uniform/
+datas/IPAGearShaft_MINE_overlapPrevent_Uniform_Test/
+datas/IPAGearShaft_MINE_overlapPrevent_Uniform_2Heights/
+datas/IPAGearShaft_MINE_overlapPrevent_leastPoints/
+datas/IPAGearShaft_part_1/
+datas/IPARingScrew_part_1/

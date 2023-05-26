@@ -1,0 +1,32 @@
+# ignore all files in FPCC 
+FPCC/
+
+# ignore all files in .venv
+.venv/
+
+<<<<<<< HEAD
+datas/IPAGearShaft_part_2/
+
+datas/IPAGearShaft_part_1.7z
+
+OMNet/
+
+RPMNet/
+
+GMCNet/
+
+Partial-Point-Cloud-Registration-with-Deep-Local-Feature/
+
+OMNet_Pytorch/
+
+TEASER-plusplus/
+
+DP_SKUSKA_NO_GIT/
+||||||| 0b4e25d
+=======
+GMCNet/
+QBB/
+TEASER-plusplus/
+registrationExamplesProBreg/
+
+>>>>>>> 8fc1bf156c879f46a77dc79f5119b8ec7168b00f

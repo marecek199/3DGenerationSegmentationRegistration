@@ -1,0 +1,1 @@
+Model loaded in file: Segmentation/checkpoint/T_join_trained_NN/epoch_61.ckpt

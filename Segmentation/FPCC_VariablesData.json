@@ -1,0 +1,21 @@
+
+{
+   "gpu": "0",                                                  
+   "wd": 0.1,                                                   
+   "epoch": 100,                                                
+    "batch": 2,                                                 
+    "point_num": 4096,                                          
+    "group_num": 50,                                            
+    "cate_num": 1,                                              
+    "margin_same": 0.6,                                         
+    "margin_diff": 1.0,                                           
+    "use_vdm": true,                                            
+    "use_asm": true,                                            
+    "backbone": "dgcnn",                                        
+    "point_dim": 6,                                             
+    "restore_model_dir": "Segmentation/checkpoint/",
+    "R_max_Train": 0.25,                                              
+    "verbose": "store_true",                                    
+    "center_score_th": 0.5,                                     
+    "R_max_Test": 0.1                                                
+}
